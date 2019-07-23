@@ -7,6 +7,6 @@ using namespace std;
 
 int main() {
 	std::cout << "test line \n";
-
+	
 	PAUSE
 }
